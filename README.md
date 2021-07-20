@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and robotics 
 - 🌱 I’m currently learning "deep learning algorithms"
 - 💞️ I’m looking to collaborate on projects related to c and cpp
-- 📫 To reach me just commit on code or mail on pawarp462000@gmail.com
+- 📫 To reach me just commit on code or mail on pratik90750@gmail.com
 
 <!---
 Pratik-Ai/Pratik-Ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
