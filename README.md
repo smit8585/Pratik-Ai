@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pratik-Ai
 - 👀 I’m interested in machine learning and robotics 
-- 🌱 I’m currently learning "deep learning algorithms"
+- 🌱 I’m currently learning "deep learning algorithms and working on GANs"
 - 💞️ I’m looking to collaborate on projects related to machine learning
 - 📫 To reach me just commit on code or mail on pratik90750@gmail.com
 
