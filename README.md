@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @Pratik-Ai
-- 👀 I’m interested in machine learning and robotics 
-- 🌱 I’m currently learning "deep learning algorithms and working on GANs"
-- 💞️ I’m looking to collaborate on projects related to machine learning
-- 📫 To reach me just commit on code or mail on pratik90750@gmail.com
+<h1 align="center">Hi <img src="https://github.com/Pratik-Ai/images-dev/blob/main/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Pratik Pawar</h1>
+<h5 align="center">
+A 3rd-year student pursuing Bachelors in Artificial Inteligence and Machine Learning from AUM Mumbai. I am a Data Science enthusiast, Web developer, and ML engineer. 
+</h5>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pratik-Ai&color=07f1f5" /> </p>
+<p>
+<a align= "center" href="https://github.com/Pratik-Ai">
+<img alt= "stats card" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=Pratik-Ai&theme=vue-dark&date_format=j%20M%5B%20Y%5D">
+<img align="right" height="350" width="400" src="https://github.com/Pratik-Ai/images-dev/blob/main/devloper.gif" /> </a>
+</p>
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Pratik-Ai&show_icons=true&theme=synthwave" />
 
-<!---
-Pratik-Ai/Pratik-Ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 📫 How to reach me **devloperp9@gmail.com**
+<br><br>
+<hr>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/Pratik21839420" target="blank"><img align="center" src="https://github.com/Pratik-Ai/images-dev/blob/main/twi.png" alt="Pratik21839420"  width="50" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/pratik--pawar/" target="blank"><img align="center" src="https://github.com/Pratik-Ai/images-dev/blob/main/linkedin.png" alt="Pratik Pawar" width="50" /></a>&nbsp;
+<a href="https://www.instagram.com/pawarpratik9/" target="blank"><img align="center" src="https://github.com/Pratik-Ai/images-dev/blob/main/instagram.png" alt="pawarpratik9" width="50" /></a>
+</p>
+
+<hr>
+
+<p align="center">
+  <img src="https://github.com/Pratik-Ai/Pratik-Ai/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
