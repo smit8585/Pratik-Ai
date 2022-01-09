@@ -25,6 +25,7 @@ A 3rd-year student pursuing Bachelors in Artificial Inteligence and Machine Lear
 <a href="https://twitter.com/Pratik21839420" target="blank"><img align="center" src="https://github.com/Pratik-Ai/images-dev/blob/main/twi.png" alt="Pratik21839420"  width="50" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/pratik--pawar/" target="blank"><img align="center" src="https://github.com/Pratik-Ai/images-dev/blob/main/linkedin.png" alt="Pratik Pawar" width="50" /></a>&nbsp;
 <a href="https://www.instagram.com/pawarpratik9/" target="blank"><img align="center" src="https://github.com/Pratik-Ai/images-dev/blob/main/instagram.png" alt="pawarpratik9" width="50" /></a>
+<a href="devloperp9@gmail.com" target="blank"><img align="center" src="https://github.com/Pratik-Ai/images-dev/blob/main/gmail.png" alt="gmail" width="50" /></a>
 </p>
 
 <hr>
