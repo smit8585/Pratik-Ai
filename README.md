@@ -30,3 +30,6 @@ A 3rd-year student pursuing Bachelors in Artificial Inteligence and Machine Lear
 <p align="center">
   <img src="https://github.com/Pratik-Ai/Pratik-Ai/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+<p align="center">
+         <img src="https://activity-graph.herokuapp.com/graph?username=Pratik-Ai&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true"
+</p>
