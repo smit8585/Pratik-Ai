@@ -14,7 +14,7 @@ A 3rd-year student pursuing Bachelors in Artificial Inteligence and Machine Lear
 
 <p>
 <img alt= "stats card" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=Pratik-Ai&show_icons=true&theme=synthwave" />
- <img align="right"  width="400" src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
+ <img align="right" height="200" width="400" src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
  </p>
 
 - 📫 How to reach me **devloperp9@gmail.com**
