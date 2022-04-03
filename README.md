@@ -21,7 +21,7 @@ A 3rd-year student pursuing Bachelors in Artificial Inteligence and Machine Lear
 <br><br>
 <hr>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me:-</h3>
 <p align="center">
 <a href="https://twitter.com/Pratik21839420" target="blank"><img align="center" src="https://github.com/Pratik-Ai/images-dev/blob/main/twi.png" alt="Pratik21839420"  width="50" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/pratik--pawar/" target="blank"><img align="center" src="https://github.com/Pratik-Ai/images-dev/blob/main/linkedin.png" alt="Pratik Pawar" width="50" /></a>&nbsp;
@@ -37,3 +37,5 @@ A 3rd-year student pursuing Bachelors in Artificial Inteligence and Machine Lear
 <p align="center">
          <img src="https://activity-graph.herokuapp.com/graph?username=Pratik-Ai&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true"
 </p>
+
+
